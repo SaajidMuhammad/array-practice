@@ -13,6 +13,7 @@ let firstName = `My Name is Saajid, My Age is ${2023 - 1990}`;
 
 console.log(firstName);
 
+
 // number
 
 // methods && functions
